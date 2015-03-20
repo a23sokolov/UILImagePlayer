@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UILImagePlayer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="clear_memmory_cache">Clear cache</string>
+    <string name="clear_disk_cache">Clear disk cache</string>
+    <string name="cache_picture">Cache picture</string>
+    <string name="SimpleGiftPlayer">Simple Gif Player</string>
+    <string name="DownloadGifsUrl">Download URLS</string>
+    <string name="DownloadGifAndShowThem">Download file/show them</string>
+
+    <string name="descr_image">Image</string>
+
+</resources>
